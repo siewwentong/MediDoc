@@ -1,4 +1,5 @@
 # MediDoc
+https://github.com/siewwentong/MediDoc/blob/main/medical_personnel_Dashboard/assets/images/repo/pcHy5L4pRmGNWkO0BoXZyhk5sMwsvzaV/p_9kFKxqkrUZHBKBWXpQuPZvB9WP7XWNzj/iNw3m6xG7LLps00sjhT9Tr99jNFHwKgT.png
 
 # Our Aim
 Currently, there are limited applications to centralize medical records across all the hospitals, making it hard for the doctor to get patient’s medical records from other hospitals.  
