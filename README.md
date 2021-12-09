@@ -19,7 +19,7 @@ Features included are:
 ## Medical Personnel Website Dashboard
 This folder contains the interactive wireframe has been uploaded. 
 The features includes:
-- Searching for the patient's medical record cia the patient's ID
+- Searching for the patient's medical record via the patient's ID
 - select, requesting access or upload the medical documents 
 
 
