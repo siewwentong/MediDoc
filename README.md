@@ -1,4 +1,5 @@
 # MediDoc
+<img width="441" alt="Logo" src="https://user-images.githubusercontent.com/91870286/145423328-b365703e-6b64-401e-9559-16f1b9059bc2.png">
 
 # Our Aim
 Currently, there are limited applications to centralize medical records across all the hospitals, making it hard for the doctor to get patient’s medical records from other hospitals.  
