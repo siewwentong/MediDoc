@@ -1,4 +1,4 @@
-## MediDoc
+# MediDoc
 
 # Our Aim
 Currently, there are limited applications to centralize medical records across all the hospitals, making it hard for the doctor to get patient’s medical records from other hospitals.  
@@ -16,4 +16,5 @@ The folder containing the interactive wireframe has been uploaded. This website 
 
 
 # Integration of mobile application and website 
-NOTE: the patient's medical personnel website must be used in line with the patient's mobile application in order for medical document sharing. A notification will be sent to the patient's mobile application upon document request by the medical professional. User will then decide whether or not to approve the document sharing. 
+*NOTE:* For the medical document sharing, the patient mobile app must be present in order for the patient's medical personnel to access their medical records. 
+A notification will be sent to the patient's mobile application upon the request of documents by the medical professional. The patient will then decide whether or not to approve the medical document sharing. 
